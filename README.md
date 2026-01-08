@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m Atharva Kakde, a B.Tech Computer Science & Engineering student (Class of 2027) with a minor in Artificial Intelligence & Machine Learning, passionate about building secure, scalable, and user-centric software solutions.<br><br>I have hands-on experience in full-stack development, UI/UX design, and AI/ML, and I’m actively expanding my skill set in Cyber Security, focusing on web security fundamentals, secure coding practices, and vulnerability awareness. I enjoy working at the intersection of design, development, and security to create reliable digital products.<br><br>Currently, I’m working as a UI/UX & Frontend Intern, where I contribute to designing intuitive interfaces and implementing responsive web applications. I’ve also participated in hackathons, internships, and project-based learning, which strengthened my problem-solving, collaboration, and real-world development skills.<br><br>I’m always eager to learn new technologies, collaborate on impactful projects, and grow as a Software Engineer / Full-Stack Developer / AI-ML & Cyber Security enthusiast. 
-
+  
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kakde-2569b034b/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvakakde40@gmail.com)
