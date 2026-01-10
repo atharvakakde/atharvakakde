@@ -1,5 +1,74 @@
-# 💫 About Me:
-I’m Atharva Kakde, a B.Tech Computer Science & Engineering student (Class of 2027) with a minor in Artificial Intelligence & Machine Learning, passionate about building secure, scalable, and user-centric software solutions.<br><br>I have hands-on experience in full-stack development, UI/UX design, and AI/ML, and I’m actively expanding my skill set in Cyber Security, focusing on web security fundamentals, secure coding practices, and vulnerability awareness. I enjoy working at the intersection of design, development, and security to create reliable digital products.<br><br>Currently, I’m working as a UI/UX & Frontend Intern, where I contribute to designing intuitive interfaces and implementing responsive web applications. I’ve also participated in hackathons, internships, and project-based learning, which strengthened my problem-solving, collaboration, and real-world development skills.<br><br>I’m always eager to learn new technologies, collaborate on impactful projects, and grow as a Software Engineer / Full-Stack Developer / AI-ML & Cyber Security enthusiast.  
+# 👋 Hi, I'm Atharva Kakde
+
+🎓 **B.Tech Computer Science & Engineering (2023–2027)**  
+🤖 Minor in **Artificial Intelligence & Machine Learning**  
+💻 **Full-Stack Developer | UI/UX Enthusiast | Cyber Security Learner**
+
+🔗 **Portfolio:** https://atharva-kakde-portfolio.vercel.app  
+
+---
+
+## 💫 About Me
+
+I’m **Atharva Kakde**, a passionate Computer Science Engineering student focused on building **secure, scalable, and user-centric software solutions**.
+
+I have hands-on experience in **full-stack web development**, **UI/UX design**, and **AI/ML**, and I’m actively expanding my knowledge in **Cyber Security**, with a focus on web security fundamentals, secure coding practices, and vulnerability awareness.
+
+I enjoy working at the intersection of **design, development, and security** to create reliable and impactful digital products.
+
+Currently, I’m working as a **UI/UX & Frontend Intern**, where I contribute to designing intuitive interfaces and implementing responsive web applications. I’ve also participated in **hackathons, internships, and project-based learning**, which strengthened my problem-solving, collaboration, and real-world development skills.
+
+I’m always eager to learn new technologies, collaborate on meaningful projects, and grow as a **Software Engineer / Full-Stack Developer / AI-ML & Cyber Security Enthusiast**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C • C++ • Java • Python • JavaScript  
+
+**Web Development:**  
+HTML • CSS • React • Node.js • Express  
+
+**Databases:**  
+MySQL • Oracle • SQLite  
+
+**AI / ML:**  
+NumPy • Pandas • Machine Learning Algorithms  
+
+**Tools & Design:**  
+Git • GitHub • Figma • Canva • Power BI • Excel  
+
+---
+
+## 🚀 Projects
+
+- 🖥️ **E-Commerce PC Parts Website** – Full-stack web application  
+- 🍽️ **Restaurant Management System** – Java-based application  
+- 🎮 **2-Player Games Platform** – Python (Tkinter)  
+- 💧 **Water Level Indicator** – Arduino-based hardware project  
+
+👉 More projects on my **Portfolio:** https://atharva-kakde-portfolio.vercel.app
+
+---
+
+## 🏆 Achievements & Certifications
+
+- Hackathon Finalist (Multiple Events)  
+- Certifications in **C, C++, Python, Java, SQL, DSA**  
+- Infosys Springboard Training  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://atharva-kakde-portfolio.vercel.app  
+- 💼 LinkedIn: *(add your link)*  
+- 📧 Email: *(add your email)*  
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
 
  
 ## 🌐 Socials: 
