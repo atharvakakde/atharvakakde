@@ -21,26 +21,6 @@ Currently, I’m working as a **UI/UX & Frontend Intern**, where I contribute to
 I’m always eager to learn new technologies, collaborate on meaningful projects, and grow as a **Software Engineer / Full-Stack Developer / AI-ML & Cyber Security Enthusiast**.
 
 ---
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-C • C++ • Java • Python • JavaScript  
-
-**Web Development:**  
-HTML • CSS • React • Node.js • Express  
-
-**Databases:**  
-MySQL • Oracle • SQLite  
-
-**AI / ML:**  
-NumPy • Pandas • Machine Learning Algorithms  
-
-**Tools & Design:**  
-Git • GitHub • Figma • Canva • Power BI • Excel  
-
----
-
 ## 🚀 Projects
 
 - 🖥️ **E-Commerce PC Parts Website** – Full-stack web application  
@@ -49,28 +29,14 @@ Git • GitHub • Figma • Canva • Power BI • Excel
 - 💧 **Water Level Indicator** – Arduino-based hardware project  
 
 👉 More projects on my **Portfolio:** https://atharva-kakde-portfolio.vercel.app
-
 ---
-
 ## 🏆 Achievements & Certifications
 
 - Hackathon Finalist (Multiple Events)  
 - Certifications in **C, C++, Python, Java, SQL, DSA**  
 - Infosys Springboard Training  
-
 ---
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://atharva-kakde-portfolio.vercel.app  
-- 💼 LinkedIn: *(add your link)*  
-- 📧 Email: *(add your email)*  
-
----
-
 ⭐ If you like my work, feel free to star my repositories!
-
- 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kakde-2569b034b/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvakakde40@gmail.com)
 
