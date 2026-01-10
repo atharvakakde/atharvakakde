@@ -20,7 +20,7 @@ Currently, I’m working as a **UI/UX & Frontend Intern**, where I contribute to
 
 I’m always eager to learn new technologies, collaborate on meaningful projects, and grow as a **Software Engineer / Full-Stack Developer / AI-ML & Cyber Security Enthusiast**.
 
-```
+---
 ⭐ If you like my work, feel free to star my repositories!
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kakde-2569b034b/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvakakde40@gmail.com)
